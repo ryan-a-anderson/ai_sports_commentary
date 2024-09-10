@@ -1,0 +1,17 @@
+   # Conda environment
+   /env/
+
+   # Python
+   __pycache__/
+   *.py[cod]
+   *.so
+
+   # Jupyter Notebook
+   .ipynb_checkpoints
+
+   # Environment variables
+   .env
+
+   # OS-specific
+   .DS_Store
+   Thumbs.db
